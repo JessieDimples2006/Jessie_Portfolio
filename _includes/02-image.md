@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Pretty Picture](https://www.google.com/search?tbm=isch&source=hp&biw=1280&bih=910&ei=46siYJzUJrGl_QbV442gBg&q=agriculture&oq=agriculture&gs_lcp=CgNpbWcQAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyAggAMgUIABCxAzICCAAyCAgAELEDEIMBMgUIABCxAzIFCAAQsQNQiShYr0BgqkJoAHAAeACAAWOIAekHkgECMTGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAA&sclient=img&ved=0ahUKEwjc0cjakN3uAhWxUt8KHdVxA2QQ4dUDCAY&uact=5#imgrc=Pnvru6Fdjvj7ZM)
