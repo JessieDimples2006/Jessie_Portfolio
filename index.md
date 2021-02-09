@@ -1,3 +1,6 @@
+name = Jessica
+### {x}.format(name)
+
 ---
 layout: default
 ---
